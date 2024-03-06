@@ -44,7 +44,3 @@ npm/yarn run tailwind
 ![DEMO IMAGE](https://github.com/emirhan-yagci/BuyAirWithWeb3/blob/main/images/main.png)
 
 
-
-[Go Demo](https://airdemoemirhan.netlify.app)
-
-

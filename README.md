@@ -1,3 +1,4 @@
+> Unuseable for now because kovan testnet is down. Should change smart contracts
 # Bixos Air Auction
 
 > the project generally sells 4 air conditioners at auction, but this auction continues all the time, so you can't own any air conditioner forever and everything working with web3
